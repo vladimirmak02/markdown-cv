@@ -6,13 +6,13 @@ title: Vlad Makarov
 Informaticien, Enseigneur, Ingénieur
 
 <div id="webaddress">
-<a href="vm.business.2002@gmail.com">vm.business.2002@gmail.com</a>
+<a href="mailto:vm.business.2002@gmail.com">vm.business.2002@gmail.com</a>
 | <a href="https://www.vladm.me/">vladm.me</a>
 | <a href="https://www.linkedin.com/in/vlad-makarov-/">Linkedin</a>
 </div>
 
 Nationalité: Tchèque
-Résidence: Noisy-le-Sec, Île-de-France
+| Résidence: Noisy-le-Sec, Île-de-France
 
 ### Spécialisé dans
 
@@ -27,7 +27,7 @@ Technologies de l’information, cybersécurité de base, administration systèm
 ## Formation
 
 `2020 - 2023`  
-__Technische Universiteit Delft__  
+__Delft Technical University__  
 - Bachelor of Science – Informatique et ingénierie des systèmes
 
 `2022`  
@@ -90,8 +90,8 @@ __Microsoft – Stagiaire__ (Prague, Tchéquie)
 
 - Systèmes : Windows, Linux (Ubuntu, Archlinux, Mint)  
 - Réseaux : TCP/IP, DHCP, DNS, FTP
-- Outils : Office 365, Photoshop, Blender, Git
-- Développement (expérience antérieure) : HTML, CSS, JavaScript, Python, Java, Scala, C++
+- Outils : Office 365, Photoshop, Blender, Git, Phpmyadmin, PostgreSQL, GraphQL
+- Développement (expérience antérieure) : HTML, CSS, SQL, JavaScript, Python, Java, Scala, C++
 - Compétences transverses : pédagogie, communication claire, négociation  
 
 
