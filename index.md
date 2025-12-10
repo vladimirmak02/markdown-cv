@@ -91,7 +91,7 @@ __Microsoft – Stagiaire__ (Prague, Tchéquie)
 - Systèmes : Windows, Linux (Ubuntu, Archlinux, Mint)  
 - Réseaux : TCP/IP, DHCP, DNS, FTP
 - Outils : Office 365, Photoshop, Blender, Git, Phpmyadmin, PostgreSQL, GraphQL
-- Développement (expérience antérieure) : HTML, CSS, SQL, JavaScript, Python, Java, Scala, C++
+- Développement : HTML, CSS, SQL, JavaScript, Python, Java, Scala, C++
 - Compétences transverses : pédagogie, communication claire, négociation  
 
 
