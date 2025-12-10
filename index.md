@@ -27,16 +27,16 @@ Technologies de l’information, cybersécurité de base, administration systèm
 ## Formation
 
 `2020 - 2023`  
-__Delft Technical University__  
-- Bachelor of Science – Informatique et ingénierie des systèmes
+__Université de Technologie de Delft (Pays-Bas)__  
+- Licence en Informatique et Ingénierie des Systèmes
 
 `2022`  
-__The Hong Kong University of Science and Technology__  
-- Mineure – Changement climatique et sciences océaniques
+__Université des Sciences et Technologies de Hong Kong__  
+- Mineure en Sciences du climat et de l’océan
 
 `2008 - 2020`  
-__Prague British International School__  
-- Baccalauréat International
+__Prague British International School (Tchéquie)__  
+- Diplôme du Baccalauréat International
 
 
 
