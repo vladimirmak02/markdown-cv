@@ -4,9 +4,9 @@ title: Vlad Makarov
 ---
 
 # Vlad Makarov
-Technicien Support IT / Helpdesk N1‑N2
+IT Support Technician / Helpdesk N1–N2
 
-Profil orienté support IT, avec expérience en support N1/N2, administration systèmes Windows/Linux et gestion d’incidents. À l’aise dans la communication, la pédagogie et les environnements à forte interaction utilisateurs.
+IT support–oriented profile with experience in N1/N2 support, Windows/Linux system administration, and incident management. Comfortable with communication, training, and environments with high user interaction.
 
 <div id="webaddress">
 <a href="mailto:vm.business.2002@gmail.com">vm.business.2002@gmail.com</a>
@@ -14,77 +14,72 @@ Profil orienté support IT, avec expérience en support N1/N2, administration sy
 | <a href="https://www.linkedin.com/in/vlad-makarov-/">LinkedIn</a>
 </div>
 
-Nationalité : Tchèque · Résidence : Noisy‑le‑Sec, Île‑de‑France
+Nationality: Czech · Location: Noisy‑le‑Sec, Île‑de‑France, France
 
 
+## Key Skills
 
-## Compétences Clés
-
-### 💻 IT & Systèmes
+### 💻 IT & Systems
 - Windows, Linux (Ubuntu, Arch, Mint)
-- Administration systèmes · Maintenance · Support IT N1 / N2
-- Réseaux : TCP/IP, DHCP, DNS, FTP
+- System administration · Maintenance · IT Support N1 / N2
+- Networking: TCP/IP, DHCP, DNS, FTP
 
-### 🧠 Dev & Données
+### 🧠 Development
 - Python, JavaScript, SQL, Java, Scala, C++
 - HTML, CSS
 - PostgreSQL · GraphQL · PhpMyAdmin
 - Git
 
-### 🤖 IA & Productivité
-- ChatGPT, Microsoft Copilot (usage professionnel)
+### 🤖 AI & Productivity
+- ChatGPT, Microsoft Copilot (professional use)
 - GitHub Copilot
-- Outils IA pour support technique, automatisation et rédaction
+- AI tools for technical support, automation, and documentation
 
-### 🛠️ Outils
+### 🛠️ Tools
 - Office 365, Photoshop, Blender
 
 ### 🤝 Soft Skills
-- Support utilisateurs · Pédagogie
-- Communication claire
-- Résolution d’incidents
-- Autonomie & adaptabilité
+- User support · Training
+- Clear communication
+- Incident resolution
+- Autonomy & adaptability
 
 
-## Expérience
+## Experience
 
 `2024 – 2025`  
-**La Main Verte – Employé Commercial** (Paris)
-- Relation clients · gestion de demandes quotidiennes
-- Communication claire · résolution de situations complexes
-- Formation de nouveaux employés
+**La Main Verte – Sales Assistant** (Paris)
+- Customer interaction · daily request handling
+- Clear communication · resolution of complex situations
+- Onboarding and training of new employees
 
 `2023 – 2024`  
-**MJC Région Elbeuf – Volontaire CES**
-- Animation de publics · pédagogie
-- Enseignement de l’anglais
-- Organisation d’activités éducatives
+**MJC Région Elbeuf – European Solidarity Corps Volunteer**
+- Public engagement · training and facilitation
+- English teaching
+- Organization of educational activities
 
 `2021 – 2022`  
-**Université de Technologie de Delft – Assistant d’Enseignement**
-- Support aux étudiants (Web, bases de données)
-- Aide à la résolution de problèmes techniques
+**Delft University of Technology – Teaching Assistant**
+- Student support (Web, Databases)
+- Technical problem‑solving assistance
 
 `2020 – 2021`  
-**Regard s.r.o – Administrateur Systèmes** (Prague)
-- Administration Windows / Linux
-- Maintenance postes utilisateurs & serveurs
-- Support IT N1 / N2 · gestion d’incidents
+**Regard s.r.o – System Administrator** (Prague)
+- Windows / Linux system administration
+- Workstation and server maintenance
+- IT support N1 / N2 · incident management
 
 `2019`  
-**Microsoft – Stagiaire IT** (Prague)
-- Participation à projets IT en environnement entreprise
+**Microsoft – IT Intern** (Prague)
+- Participation in IT projects within a corporate environment
 
 
-## Formation
+## Education
 
-**Licence Informatique & Ingénierie des Systèmes**  
-- Université de Technologie de Delft, Pays-Bas (2020 – 2023)
-- Mineure Sciences du climat & de l’océan
+**BSc in Computer Science & Systems Engineering**  
+- Delft University of Technology, Netherlands (2020 – 2023)
+- Minor in Climate & Ocean Sciences
 
-<!-- 
-**Mineure Sciences du climat & de l’océan**  
-Hong Kong University of Science and Technology (2022)
--->
-**Baccalauréat à Prague, Tchéquie**  
-<!-- Prague British International School  -->
+**Secondary School Diploma (Prague, Czech Republic)**  
+<!-- Prague British International School -->
