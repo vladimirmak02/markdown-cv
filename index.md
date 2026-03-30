@@ -40,7 +40,7 @@ Nationality: Czech · Location: Noisy‑le‑Sec, Île‑de‑France, France
 
 ### 🤝 Soft Skills
 - User support · Training
-- Clear communication
+- Clear communication in english, french, czech and russian
 - Incident resolution
 - Autonomy & adaptability
 
