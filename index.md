@@ -41,7 +41,7 @@ Nationalité : Tchèque · Résidence : Noisy‑le‑Sec, Île‑de‑France
 
 ### 🤝 Soft Skills
 - Support utilisateurs · Pédagogie
-- Communication claire
+- Communication claire en anglais, français, tchèque et russe
 - Résolution d’incidents
 - Autonomie & adaptabilité
 
