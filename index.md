@@ -4,9 +4,9 @@ title: Vlad Makarov
 ---
 
 # Vlad Makarov
-IT Support Technician / Helpdesk N1–N2
+Retail Associate · Guest Services · IT Support (N1–N2)
 
-IT support–oriented profile with experience in N1/N2 support, Windows/Linux system administration, and incident management. Comfortable with communication, training, and environments with high user interaction.
+Customer‑focused professional with international experience in retail, community programs, and IT support. Quick learner and comfortable in fast‑paced, multicultural environments, combining strong communication skills with solid technical and digital tool expertise.
 
 <div id="webaddress">
 <a href="mailto:vm.business.2002@gmail.com">vm.business.2002@gmail.com</a>
@@ -14,72 +14,69 @@ IT support–oriented profile with experience in N1/N2 support, Windows/Linux sy
 | <a href="https://www.linkedin.com/in/vlad-makarov-/">LinkedIn</a>
 </div>
 
-Nationality: Czech · Location: Noisy‑le‑Sec, Île‑de‑France, France
+Nationality: Czech · Based in France · Open to international contracts
+
 
 
 ## Key Skills
 
-### 💻 IT & Systems
+
+### Guests
+- Customer service, guest satisfaction, problem resolution
+- Retail sales, product explanation, teamwork
+- **Languages**: English (fluent C2), French (fluent), German (professional B2), Czech (fluent), Russian (native), Spanish (basic – learning)
+
+### IT Support
+- IT Support N1 / N2 · incident handling
 - Windows, Linux (Ubuntu, Arch, Mint)
-- System administration · Maintenance · IT Support N1 / N2
-- Networking: TCP/IP, DHCP, DNS, FTP
+- Workstation & basic network troubleshooting
+- Digital tools: Office 365, ChatGPT, Microsoft Copilot, Various AI tools
 
-### 🧠 Development
-- Python, JavaScript, SQL, Java, Scala, C++
-- HTML, CSS
-- PostgreSQL · GraphQL · PhpMyAdmin
-- Git
-
-### 🤖 AI & Productivity
-- ChatGPT, Microsoft Copilot (professional use)
-- GitHub Copilot
-- AI tools for technical support, automation, and documentation
-
-### 🛠️ Tools
-- Office 365, Photoshop, Blender
-
-### 🤝 Soft Skills
-- User support · Training
-- Clear communication in english, french, czech and russian
-- Incident resolution
-- Autonomy & adaptability
+### Soft Skills
+- Clear communication & pedagogy
+- Adaptability in multicultural teams
+- Reliability, autonomy, professionalism
 
 
-## Experience
+## Professional Experience
 
 `2024 – 2025`  
-**La Main Verte – Sales Assistant** (Paris)
-- Customer interaction · daily request handling
-- Clear communication · resolution of complex situations
-- Onboarding and training of new employees
+**La Main Verte – Retail Associate** (Paris, France)
+- Daily customer interaction in a fast‑paced retail setting
+- Handling requests, complaints, and complex situations
+- Training and supporting new team members
 
 `2023 – 2024`  
-**MJC Région Elbeuf – European Solidarity Corps Volunteer**
-- Public engagement · training and facilitation
-- English teaching
-- Organization of educational activities
+**MJC Région Elbeuf – Activity & Community Program Coordinator** (France)
+- Planning and leading activities for children and adults
+- Working with diverse and multicultural audiences
+- Facilitating group activities and events
 
 `2021 – 2022`  
-**Delft University of Technology – Teaching Assistant**
-- Student support (Web, Databases)
-- Technical problem‑solving assistance
+**Delft University of Technology – Teaching Assistant** (Netherlands)
+- Supporting students in Web and Database courses
+- Explaining technical concepts clearly
+- Assisting with problem solving
 
 `2020 – 2021`  
-**Regard s.r.o – System Administrator** (Prague)
+**Regard s.r.o – System Administrator** (Prague, Czech Republic)
 - Windows / Linux system administration
-- Workstation and server maintenance
-- IT support N1 / N2 · incident management
+- User workstation and server maintenance
+- IT support N1 / N2 · incident resolution
 
 `2019`  
-**Microsoft – IT Intern** (Prague)
-- Participation in IT projects within a corporate environment
+**Microsoft – IT Intern** (Prague, Czech Republic)
+- Exposure to corporate IT environments
+- Participation in internal IT and support projects
+
 
 
 ## Education
 
 **BSc in Computer Science & Systems Engineering**  
 - Delft University of Technology, Netherlands (2020 – 2023)
-- Minor in Climate & Ocean Sciences
 
-**Secondary School Diploma (Prague, Czech Republic)**  
-<!-- Prague British International School -->
+**Minor in Climate & Ocean Sciences**  
+- Hong Kong University of Science and Technology, Hong Kong (2022)
+
+**Secondary School Diploma - Prague, Czech Republic**  
