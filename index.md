@@ -4,9 +4,9 @@ title: Vlad Makarov
 ---
 
 # Vlad Makarov
-Retail Associate · Guest Services · IT Support (N1–N2)
+Children’s Animator · Activity Leader · Guest Services
 
-Customer‑focused professional with international experience in retail, community programs, and IT support. Quick learner and comfortable in fast‑paced, multicultural environments, combining strong communication skills with solid technical and digital tool expertise.
+Energetic and reliable professional with international experience working with children in educational, community, and one‑to‑one settings. Comfortable leading activities in English or French for multicultural audiences, with strong communication skills and a supportive, patient approach.
 
 <div id="webaddress">
 <a href="mailto:vm.business.2002@gmail.com">vm.business.2002@gmail.com</a>
@@ -17,58 +17,60 @@ Customer‑focused professional with international experience in retail, communi
 Nationality: Czech · Based in France · Open to international contracts
 
 
-
 ## Key Skills
 
+### Children & Guests
+- Activity planning and group animation for children
+- Clear communication, engagement, safety awareness
+- Multicultural work environments  
+- **Languages**: English (fluent C2), French (fluent), German (B2), Czech (fluent), Russian (native), Spanish (basic)
 
-### Guests
-- Customer service, guest satisfaction, problem resolution
-- Retail sales, product explanation, teamwork
-- **Languages**: English (fluent C2), French (fluent), German (professional B2), Czech (fluent), Russian (native), Spanish (basic – learning)
-
-### IT Support
-- IT Support N1 / N2 · incident handling
+### Support & Tools
+- Basic IT support and troubleshooting (N1/N2)
 - Windows, Linux (Ubuntu, Arch, Mint)
-- Workstation & basic network troubleshooting
-- Digital tools: Office 365, ChatGPT, Microsoft Copilot, Various AI tools
+- Digital tools for organization and communication (Office 365, AI tools)
 
 ### Soft Skills
-- Clear communication & pedagogy
-- Adaptability in multicultural teams
-- Reliability, autonomy, professionalism
+- Pedagogy, patience, adaptability
+- Teamwork and reliability
+- Positive attitude in fast‑paced environments
 
 
-## Professional Experience
+## Experience
+
+`2024 – 2025`  
+**Private Babysitter – Paris, France** (Part‑time)
+- Childcare for French children in English-speaking context
+- Planning educational and creative activities
+- Supporting language learning through games and daily interaction
 
 `2024 – 2025`  
 **La Main Verte – Retail Associate** (Paris, France)
-- Daily customer interaction in a fast‑paced retail setting
-- Handling requests, complaints, and complex situations
-- Training and supporting new team members
+- Daily guest interaction in a fast‑paced environment
+- Supporting customers and handling requests professionally
+- Teamwork and responsibility in day‑to‑day operations
 
 `2023 – 2024`  
-**MJC Région Elbeuf – Activity & Community Program Coordinator** (France)
-- Planning and leading activities for children and adults
+**MJC Région Elbeuf – Children’s Activity Leader & Program Coordinator** (France)
+- Planning and leading activities for children and teenagers
+- Animation of workshops, games, and group events
 - Working with diverse and multicultural audiences
-- Facilitating group activities and events
 
 `2021 – 2022`  
 **Delft University of Technology – Teaching Assistant** (Netherlands)
 - Supporting students in Web and Database courses
-- Explaining technical concepts clearly
-- Assisting with problem solving
+- Explaining concepts clearly to non‑experts
+- Structured problem‑solving assistance
 
 `2020 – 2021`  
 **Regard s.r.o – System Administrator** (Prague, Czech Republic)
-- Windows / Linux system administration
-- User workstation and server maintenance
-- IT support N1 / N2 · incident resolution
+- System administration (Windows / Linux), IT support and troubleshooting
+- User assistance in professional environment
 
-`2019`  
-**Microsoft – IT Intern** (Prague, Czech Republic)
-- Exposure to corporate IT environments
-- Participation in internal IT and support projects
-
+<!--
+`2019`
+Microsoft – IT Intern (Prague, Czech Republic)
+-->
 
 
 ## Education
@@ -79,4 +81,4 @@ Nationality: Czech · Based in France · Open to international contracts
 **Minor in Climate & Ocean Sciences**  
 - Hong Kong University of Science and Technology, Hong Kong (2022)
 
-**Secondary School Diploma - Prague, Czech Republic**  
+**Secondary School Diploma – Prague, Czech Republic**
