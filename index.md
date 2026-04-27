@@ -4,9 +4,9 @@ title: Vlad Makarov
 ---
 
 # Vlad Makarov
-Children’s Animator · Activity Leader · Guest Services
+Guest Services · Retail · Customer Support
 
-Energetic and reliable professional with international experience working with children in educational, community, and one‑to‑one settings. Comfortable leading activities in English or French for multicultural audiences, with strong communication skills and a supportive, patient approach.
+Service‑oriented professional with international experience in retail, community programs, and technical support roles. Comfortable working in fast‑paced, multicultural environments, delivering clear communication, reliability, and a positive guest experience in English or French.
 
 <div id="webaddress">
 <a href="mailto:vm.business.2002@gmail.com">vm.business.2002@gmail.com</a>
@@ -19,19 +19,18 @@ Nationality: Czech · Based in France · Open to international contracts
 
 ## Key Skills
 
-### Children & Guests
-- Activity planning and group animation for children
-- Clear communication, engagement, safety awareness
+### Guests & Service
+- Customer service, guest satisfaction, problem resolution
+- Activity coordination, engagement, safety awareness
 - Multicultural work environments  
-- **Languages**: English (fluent C2), French (fluent), German (B2), Czech (fluent), Russian (native), Spanish (basic)
+- **Languages**: English (fluent C2), French (fluent), German (professional B2), Czech (fluent), Russian (native), Spanish (A2 – learning)
 
 ### Support & Tools
-- Basic IT support and troubleshooting (N1/N2)
-- Windows, Linux (Ubuntu, Arch, Mint)
+- IT support and troubleshooting on Windows and Linux
 - Digital tools for organization and communication (Office 365, AI tools)
 
 ### Soft Skills
-- Pedagogy, patience, adaptability
+- Clear communication and adaptability
 - Teamwork and reliability
 - Positive attitude in fast‑paced environments
 
@@ -40,32 +39,32 @@ Nationality: Czech · Based in France · Open to international contracts
 
 `2024 – 2025`  
 **Private Babysitter – Paris, France** (Part‑time)
-- Childcare for French children in English-speaking context
-- Planning educational and creative activities
-- Supporting language learning through games and daily interaction
+- Providing supervision and support in an English‑speaking context
+- Planning structured, engaging daily activities
+- Building trust and communication with families and children
 
 `2024 – 2025`  
 **La Main Verte – Retail Associate** (Paris, France)
-- Daily guest interaction in a fast‑paced environment
+- Daily guest interaction in a fast‑paced retail environment
 - Supporting customers and handling requests professionally
 - Teamwork and responsibility in day‑to‑day operations
 
 `2023 – 2024`  
-**MJC Région Elbeuf – Children’s Activity Leader & Program Coordinator** (France)
-- Planning and leading activities for children and teenagers
-- Animation of workshops, games, and group events
-- Working with diverse and multicultural audiences
+**MJC Région Elbeuf – Activity & Program Coordinator** (France)
+- Planning and leading group activities and events
+- Engaging with diverse and multicultural audiences
+- Coordinating workshops and community programs
 
 `2021 – 2022`  
 **Delft University of Technology – Teaching Assistant** (Netherlands)
-- Supporting students in Web and Database courses
+- Supporting participants in Web and Database courses
 - Explaining concepts clearly to non‑experts
 - Structured problem‑solving assistance
 
 `2020 – 2021`  
 **Regard s.r.o – System Administrator** (Prague, Czech Republic)
 - System administration (Windows / Linux), IT support and troubleshooting
-- User assistance in professional environment
+- User assistance in a professional environment
 
 <!--
 `2019`
